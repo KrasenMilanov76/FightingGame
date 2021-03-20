@@ -1,2 +1,2 @@
 # UNKNOWN Fighter
-Fun gamefor fun people.
+Fun game for fun people.
